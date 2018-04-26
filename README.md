@@ -1,2 +1,7 @@
 # review-score-prediction
-Sentiment Analysis and Rating Prediction of Fine Food Product on Amazon
+Sentiment Analysis of Fine Food Products on Amazon
+
+Technical Details:
+Python 3.6 with PySpark
+
+Poster reporting results is also posted.
